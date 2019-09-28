@@ -26,6 +26,4 @@ There's social interaction with these gfycats because they become a part of your
 Gfytti was developed with Unity, C#, HoloLens Headsets, VR Headsets, Toolkit, 
 # Demonstration:
 <a href="www.youtube.com/watch?v=xBtLiQu1qBc&feature=youtu.be
-
-<a href="https://www.youtube.com/watch?v=MkAHjCnX_0M&feature=youtu.be
-" target="_blank"><img src="https://img.youtube.com/vi/xBtLiQu1qBc/0.jpg" width="360" height="240" border="10" /></a>
+" target="_blank"><img src="https://img.youtube.com/vi/xBtLiQu1qBc/0.jpg" width="380" height="280" border="10" /></a>
