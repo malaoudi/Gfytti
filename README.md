@@ -28,5 +28,3 @@ Gfytti was developed with Unity, C#, HoloLens Headsets, VR Headsets, Toolkit,
 Video
 https://vimeo.com/230209219
 
-<iframe src="https://player.vimeo.com/video/230209219" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/230209219">Class Diagrams for Bitbucket</a> from <a href="https://vimeo.com/lucidsoftware">Lucid Software</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
